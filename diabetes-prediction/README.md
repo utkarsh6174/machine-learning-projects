@@ -1,12 +1,12 @@
-# 🩺 Diabetes Prediction using Machine Learning
+#  Diabetes Prediction using Machine Learning
 
-## 📌 Overview
+##  Overview
 
 This project aims to predict whether a person has diabetes based on medical features using a Machine Learning model. It is built using the Pima Indians Diabetes dataset and demonstrates a complete ML workflow from data preprocessing to prediction.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 * Dataset used: **Pima Indians Diabetes Dataset**
 
@@ -27,16 +27,16 @@ This project aims to predict whether a person has diabetes based on medical feat
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
-* Python 🐍
+* Python 
 * NumPy
 * Pandas
 * Scikit-learn
 
 ---
 
-## 🧠 Approach
+##  Approach
 
 ### 1. Data Collection & Analysis
 
@@ -66,21 +66,21 @@ This project aims to predict whether a person has diabetes based on medical feat
 
 ---
 
-## 📊 Results
+##  Results
 
 * Training Accuracy: ~ 78.664%
 * Testing Accuracy: ~ 72.272%
 
 ---
 
-## 🔍 Prediction System
+##  Prediction System
 
 * Built a predictive system that takes input features
 * Outputs whether the person is diabetic or not
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 diabetes-prediction/
 │
@@ -88,7 +88,7 @@ diabetes-prediction/
 ├── README.md
 ---
 
-## 🚀 Learnings
+##  Learnings
 
 * Importance of feature scaling in ML models
 * Working with real-world datasets
@@ -97,7 +97,7 @@ diabetes-prediction/
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Try different models (Logistic Regression, Random Forest)
 * Hyperparameter tuning
@@ -106,7 +106,6 @@ diabetes-prediction/
 
 ---
 
-## 🙌 Acknowledgement
+##  Acknowledgement
 
-This is a guided project implemented for learning Machine Learning concepts.
-
+Utkarsh
